@@ -6,7 +6,7 @@
 `$ npm install react-native-fslogin --save`
 
 TODO: What to do with the module?
-Will be publish
+- [ ] Adding Dynamic Logo Path
 
 ## Usage
 ```javascript
