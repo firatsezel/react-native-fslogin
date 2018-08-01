@@ -1,5 +1,5 @@
 
-# react-native-react-native-fslogin
+# react-native-fslogin
 
 ## Getting started
 
