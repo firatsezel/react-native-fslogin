@@ -1,6 +1,11 @@
 
 # react-native-fslogin
 
+## What is about?
+
+Hello everyone! Here is my last work. This (react-native-fslogin) is a simple javascript ui library about login page screen. Purpose of this library is making easy to developing UI components for Login Pages. Library jus provides a simple static Login Page UI but it is easy to making changes on it because library takes style and text props for each its own components.
+
+
 ## Getting started
 
 `$ npm install react-native-fslogin --save`
