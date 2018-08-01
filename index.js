@@ -24,10 +24,10 @@ class Fslogin extends Component {
           </View>
         {this.props.children}
         <TouchableOpacity style={this.props.buttonContainerStyle} onPress={this.props.onLoginPress}>
-          <Text  style={this.props.buttonTextStyle}>this.props.loginText</Text>
+          <Text  style={this.props.buttonTextStyle}>{this.props.loginText}</Text>
         </TouchableOpacity>
         <Text style = {this.props.underlineTextStyle}>
-            this.props.forgetPasswordtext
+            {this.props.forgetPasswordtext}
         </Text>
 
       </KeyboardAvoidingView>
