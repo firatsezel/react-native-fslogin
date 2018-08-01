@@ -32,3 +32,17 @@ import FsLogin from 'react-native-fslogin';
 ...
 </Fslogin>
 ```
+
+| Prop Name | Prop Type | Purpose | Default Define |
+| ------------- | ------------- | ------------- | ------------- |
+| containerStyle  | style  | Styles Container | Yes |
+| logoStyle | style | Styles Logo in the middle | Yes |
+| loginContainerStyle | style | Styles Login Button| Yes |
+| buttonTextStyle | style | Button Text | Yes |
+| buttonContainerStyle | style | Button Container | Yes |
+| underlineTextStyle | style | Styles underline text at the bottom of view | Yes |
+| forgetPasswordtext | String | Forget Password String | Yes |
+| passwordText | String | Placeholder - Password text area | Yes |
+| loginText | String | Login button text | Yes |
+| usernameText | String | Placeholder - Username text area | Yes |
+| onLoginPress | Function | Execute when press on login button | No |
